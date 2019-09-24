@@ -7,7 +7,6 @@ public class HelloWorld {
 
   public static String computeUltimateQuestion() {
     return "still searching...";
-=======
     System.out.println("The answer to the ultimate question of Life, The Universe, and Everything is: " + computeUltimateAnswer());
   }
   public static int computeUltimateAnswer() {
